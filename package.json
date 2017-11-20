@@ -11,7 +11,7 @@
 	"main": "dist/pptxgen.js",
 	"dependencies": {
 		"express": "^4.15.3",
-		"image-size": ">=0.5.1",
+		"image-size": "git://github.com/Noldaru/image-size.git#master",
 		"is-electron": "^2.1.0",
 		"jquery": "^3.2.1",
 		"jquery-node": "^0.3.0",
